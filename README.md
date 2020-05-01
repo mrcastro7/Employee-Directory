@@ -1,10 +1,5 @@
 # React Employee Directory
 
-### Trilogy Fullstack new pgm: Homework Unit 19 React Homework: Employee Directory 
-*(I am a Senior Tutor @Trilogy, this exercise is part of the new program, I am coding my own solutions or adding some changes)*
-
-#### *The exercice is adapted to use Hooks (converted all Class components to Function components. useContext instead pass props. Use useEffect)* 
-
 ## Example: https://marvs-tech-emp-directory.herokuapp.com/
 
 ## API used:
